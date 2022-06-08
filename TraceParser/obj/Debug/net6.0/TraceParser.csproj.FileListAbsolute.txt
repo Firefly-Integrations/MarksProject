@@ -1,0 +1,15 @@
+C:\Users\ethana\source\repos\MarksProject\TraceParser\bin\Debug\net6.0\TraceParser.exe
+C:\Users\ethana\source\repos\MarksProject\TraceParser\bin\Debug\net6.0\TraceParser.deps.json
+C:\Users\ethana\source\repos\MarksProject\TraceParser\bin\Debug\net6.0\TraceParser.runtimeconfig.json
+C:\Users\ethana\source\repos\MarksProject\TraceParser\bin\Debug\net6.0\TraceParser.dll
+C:\Users\ethana\source\repos\MarksProject\TraceParser\bin\Debug\net6.0\TraceParser.pdb
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.csproj.AssemblyReference.cache
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.AssemblyInfoInputs.cache
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.AssemblyInfo.cs
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.csproj.CoreCompileInputs.cache
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.dll
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\refint\TraceParser.dll
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.pdb
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.genruntimeconfig.cache
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\ref\TraceParser.dll

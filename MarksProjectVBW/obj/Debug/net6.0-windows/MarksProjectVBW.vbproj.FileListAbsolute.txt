@@ -1,0 +1,17 @@
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.vbproj.AssemblyReference.cache
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.Form1.resources
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.vbproj.GenerateResource.cache
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.AssemblyInfoInputs.cache
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.AssemblyInfo.vb
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.vbproj.CoreCompileInputs.cache
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\bin\Debug\net6.0-windows\MarksProjectVBW.exe
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\bin\Debug\net6.0-windows\MarksProjectVBW.deps.json
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\bin\Debug\net6.0-windows\MarksProjectVBW.runtimeconfig.json
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\bin\Debug\net6.0-windows\MarksProjectVBW.dll
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\bin\Debug\net6.0-windows\MarksProjectVBW.pdb
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.dll
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\refint\MarksProjectVBW.dll
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.pdb
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\MarksProjectVBW.genruntimeconfig.cache
+C:\Users\ethana\source\repos\MarksProject\MarksProjectVBW\obj\Debug\net6.0-windows\ref\MarksProjectVBW.dll

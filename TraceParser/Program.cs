@@ -29,7 +29,7 @@ namespace TraceParser
             {*/
             using (StreamReader sr = new StreamReader(filePath))
             {
-                for (int i = 0; i <= 30; i++)
+                for (int i = 0; i <= 3025; i++)
                 {
                     if (i <= 20)
                     {
@@ -43,7 +43,8 @@ namespace TraceParser
                         Console.Write(grape);
                         var hexString = BitConverter.ToString(banana);
                         /*hexString = hexString.Replace("-", "");*/
-                        Console.WriteLine("\n\n" + hexString + "\n");
+                        Console.WriteLine(hexString + "\n");
+                        /*if (grape.Contains())*/
                     }
                 }
             }

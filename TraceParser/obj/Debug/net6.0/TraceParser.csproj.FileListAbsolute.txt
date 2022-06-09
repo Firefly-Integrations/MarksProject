@@ -13,3 +13,5 @@ C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\refint\Tr
 C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.pdb
 C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.genruntimeconfig.cache
 C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\ref\TraceParser.dll
+C:\Users\ethana\source\repos\MarksProject\TraceParser\bin\Debug\net6.0\Figgle.dll
+C:\Users\ethana\source\repos\MarksProject\TraceParser\obj\Debug\net6.0\TraceParser.csproj.CopyComplete

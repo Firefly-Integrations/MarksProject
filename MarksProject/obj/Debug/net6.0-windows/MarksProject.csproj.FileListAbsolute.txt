@@ -5,8 +5,6 @@ C:\Users\ethana\source\repos\MarksProject\MarksProject\bin\Debug\net6.0-windows\
 C:\Users\ethana\source\repos\MarksProject\MarksProject\bin\Debug\net6.0-windows\MarksProject.pdb
 C:\Users\ethana\source\repos\MarksProject\MarksProject\bin\Debug\net6.0-windows\Figgle.dll
 C:\Users\ethana\source\repos\MarksProject\MarksProject\obj\Debug\net6.0-windows\MarksProject.csproj.AssemblyReference.cache
-C:\Users\ethana\source\repos\MarksProject\MarksProject\obj\Debug\net6.0-windows\MarksProject.Form1.resources
-C:\Users\ethana\source\repos\MarksProject\MarksProject\obj\Debug\net6.0-windows\MarksProject.csproj.GenerateResource.cache
 C:\Users\ethana\source\repos\MarksProject\MarksProject\obj\Debug\net6.0-windows\MarksProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ethana\source\repos\MarksProject\MarksProject\obj\Debug\net6.0-windows\MarksProject.AssemblyInfoInputs.cache
 C:\Users\ethana\source\repos\MarksProject\MarksProject\obj\Debug\net6.0-windows\MarksProject.AssemblyInfo.cs
